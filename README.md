@@ -1,2 +1,7 @@
 # http-Get-REST-eg
-Example node server for making backend REST requests using http 
+
+Simple Example: node server for backend REST requests using http
+
+Uses node >5.8
+
+Run with $node index
